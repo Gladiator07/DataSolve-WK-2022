@@ -9,7 +9,7 @@ com
 
 ENVIRON=$1
 DOWNLOAD_DATA=$2
-PROJECT="DataSolve-2022"
+PROJECT="DataSolve-WK-2022"
 
 # get source code from GitHub
 git config --global user.name "Gladiator07"
